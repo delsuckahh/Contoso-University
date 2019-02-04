@@ -82,3 +82,7 @@ C:\Users\delsuckahh\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityF
 C:\Users\delsuckahh\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\Users\delsuckahh\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\delsuckahh\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\delsuckahh\source\repos\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\delsuckahh\source\repos\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\delsuckahh\source\repos\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\delsuckahh\source\repos\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
